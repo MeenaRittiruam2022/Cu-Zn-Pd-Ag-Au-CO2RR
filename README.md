@@ -1,3 +1,3 @@
 # Cu-Zn-Pd-Ag-Au-CO2RR
 This is the training and validation data of adsorption energies on Cu-Zn-Pd-Ag-Au high-entropy-alloy surfaces.
-This data is a part of the research article titeled "Insight electronic properties of Cu-based High-entropy alloys during carbon dioxide reduction reaction to ethylene: a first-principles calculation and machine learning study" Submitted in Journal.
+This data is a part of the research article titeled "Machine-Learning-Accelerated Density Functional Theory Screening of Cu-Based High-Entropy Alloys for Carbon Dioxide Reduction to Ethylene" Submitted in Journal.
